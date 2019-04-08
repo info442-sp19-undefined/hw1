@@ -2,7 +2,10 @@
 
 ## Mission Statement
 
-## Roles
+## Problem Statement
+(defining what the goals of the repository)
+
+## Members & Responsibilities
 
 - Jin Chang
 - Veronica Chang
