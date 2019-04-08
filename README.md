@@ -1,8 +1,8 @@
 # Our Team
 
+## Mission Statement
 
-
-### Roles
+## Roles
 
 - Jin Chang
 - Veronica Chang
