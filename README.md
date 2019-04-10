@@ -1,20 +1,19 @@
-# Our Team
+# Team *Undefined*
 
 ## Mission Statement
 
-TODO: Your team needs a reason for being. What is its overarching goal and its overarching values? Are you trying to make the world a safer place? A healthier place? Are you just trying to get a high grade in this class? Choosing a larger purpose will focus everyone's work in the same direction and help resolve disagreements about how to spend your time, because every bit of work will serve different goals. Write your mission statement, arguing about the words as much as you need to until you come to agreement.
+Our team mission is to develop an application that is fun, interactive, well-designed and makes a difference in society. We would all also like to achieve a score at least above 90% for the project assignments in total. Our priority is to have the application be functional and visually pleasing as well as accessible. By functional, we mean a lack to bugs and smooth interactivity. By visually pleasing, we mean a design that is clean, easy to read and makes information clear. 
 
 ## Problem Statement
-(defining what the goals of the repository)
-- It should be a small problem, not requiring a massive, complex solution.
-- It should be addressable with web-based software.
-- It does not have to be novel.
+The problem team Undefined will focus on is the lack of trust and communication between team members. Some events in the industry have shown that poor communication and trust is the reason why IT projects fail. Additionally, it is shown that communication between team members reflect the software quality the team is producing. If the communication is poor, then the quality will be worse and vice versa. Hence, our team decided to tackle the problem of poor communication and the lack of trust within teams. 
+The scope of our problem will be lack of communication and trust within teams in college and the workplace. 
+
 
 ## Roles
-Responsibilities
 
-- Rhea Chen, _leader_, responsible for __engineering__ and 
-- Veronica Chang, _manager_, responsible for __project management__ (has the final say in _what_ we are building, owning the requirements of the product.)
-- Yiran Ni, responsible for __design__ (has the final say in _how_ product requirements are met.)
-- Jin Chang
+- **Marketing:** Jin Chang
+- **Project Manager:** Veronica Chang
+- **Designer:** Yiran Ni
+- **Engineer:** Rhea Chen
+- **Support:** Veronica Chang
 
