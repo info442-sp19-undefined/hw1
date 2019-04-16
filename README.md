@@ -17,13 +17,14 @@ The scope of our problem will be lack of communication and trust within teams in
 - **Engineer:** Rhea Chen
 - **Support:** Veronica Chang
 
-## Prioritizing software qualities
+## Priorities of Software Qualities
 ### 1. Usefulness
 - Our solution actually solves the problem. 
 ### 2. Usability
 - Making sure users know how to use the program, and can acheive their goals efficiently.
-### 3. Performance
-- Smooth interactions and no bugs.
+### 3. Correctness
+- THe extent to which a program behaves according to its specification. 
+- Functional.
 ### 4. Accessibility
 - Making sure that a wide audience can use our program.
      - Specifically for color-blind people, people with limited mobility.
