@@ -1,12 +1,14 @@
 # Team *Undefined*
+**Members**: Rhea Chen, Yiran Ni, Veronica Chang and Jin Chang
+
+[Website](https://github.com/info442-sp19-undefined)
 
 ## Mission Statement
 
 Our team mission is to develop an application that is fun, interactive, well-designed and makes a difference in society. We would all also like to achieve a score at least above 90% for the project assignments in total. Our priority is to have the application be functional and visually pleasing as well as accessible. By functional, we mean a lack to bugs and smooth interactivity. By visually pleasing, we mean a design that is clean, easy to read and makes information clear. 
 
 ## Problem Statement
-The problem team Undefined will focus on is the lack of trust and communication between team members. Some events in the industry have shown that poor communication and trust is the reason why IT projects fail. Additionally, it is shown that communication between team members reflect the software quality the team is producing. If the communication is poor, then the quality will be worse and vice versa. Hence, our team decided to tackle the problem of poor communication and the lack of trust within teams. 
-The scope of our problem will be lack of communication and trust within teams in college and the workplace. 
+Studies has shown that having friends leads to more academic success, improved mental health, and lower stress levels. However, making friends is not always easy. A struggle that many students at UW face is that they are unsure how to make their peers and acquaintances in class turn into long-lasting friendships. There is little opportunity in classes such as CSE142, in which the lecturer spends the majority of the time talking. Additionally, the quarter system at UW gives students the flexibility to tailor their schedule to their preferences, but it also makes it hard to continually take the same classes with the same people over a period of time, which leads to short term relationships. Hence, the problem team Undefined will focus on is creating opportunities for a long-term relationship at UW. 
 
 
 ## Roles
